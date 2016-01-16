@@ -7,7 +7,7 @@ Works with Android only, min version 18. Java SDK version is 1.0.0. (built as de
 ## Install
 - New project: `cordova create hello com.example.hello HelloWorld`
 - Add platform: `cordova platform add android`
-- Download and install plugin: `cordova plugin add https:\\github.com\duxan\cordova-plugin-lightbluebean.git`
+- Download and install plugin: `cordova plugin add https://github.com/duxan/cordova-plugin-lightbluebean.git`
 - Build and run: `cordova build`, `cordova run --nobuild`
 
 ## Usage
